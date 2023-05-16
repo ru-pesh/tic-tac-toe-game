@@ -1,5 +1,4 @@
 import random
-import os
 one=[' ','| ',' ','| ',' ']
 pr=['-+--+--']
 two=[' ','| ',' ','| ',' ']
@@ -98,7 +97,6 @@ for i in range(9):
             w=1
             break
     pl,b=b,pl
-    #os.system('cls')
 
 pri(one,pr,two,pr1,three)
 if w==1:
