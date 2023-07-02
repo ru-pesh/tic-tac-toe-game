@@ -38,7 +38,7 @@ def add():
         add()
             
 
-#The below
+#The below function
 def pri(a,b,c,d,e):
     all=[a,'\n',b,'\n',c,'\n',d,'\n',e]
     for i in all:
