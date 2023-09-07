@@ -6,7 +6,7 @@ two=[' ','| ',' ','| ',' ']
 pr1=['-+--+--']
 three=[' ','| ',' ','| ',' ']
 print('\t \tWelcome to X O Game')
-# the below function is used to add X or O to table but it is also a recu
+# the below function is used to add X or O to table but it is also a recur
 def add():
     k=int(input("\nEnter position no. to add"))
     if k in l:
