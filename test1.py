@@ -1,5 +1,5 @@
 import random
-# random moduele is used to make computer choose a numb
+# random moduele is used to make computer choose a numbe
 one=[' ','| ',' ','| ',' ']
 pr=['-+--+--']
 two=[' ','| ',' ','| ',' ']
