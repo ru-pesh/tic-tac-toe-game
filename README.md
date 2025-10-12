@@ -1,5 +1,5 @@
 # tic-tac-toe-game
-This game has no graphic or other beautifying tools.
+This game has no graphics or other beautifying tools.
 It is purely made on scripted python language.
 Recursion is used at one point of coding.
 Both the players should be user or humans.
