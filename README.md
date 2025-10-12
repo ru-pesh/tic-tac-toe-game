@@ -1,6 +1,6 @@
 # tic-tac-toe-game
 This game has no graphics or other beautifying tools.
 It is purely made on scripted python language.
-Recursion is used at one point of coding.
+Recursion is used at one point in coding.
 Both the players should be user or humans.
 Code will be updated soon by adding a clear screen function.
