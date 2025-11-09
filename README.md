@@ -1,4 +1,4 @@
-# tic-tac-toe-game
+# tic-tac-toe-game\n
 This game has no graphics or other beautifying tools.
 It is purely made in Python.
 Recursion is used at one point in coding.
